@@ -1,35 +1,39 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:06b6d4&height=220&section=header&text=Yongjae%20Kwon&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20%7C%20Operation%20UI%20%7C%20API%20%26%20Data%20Flow&descAlignY=56&descSize=17"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:06b6d4&height=210&section=header&text=Yongjae%20Kwon&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20%7C%20Operation%20UI%20%7C%20API%20%26%20Data%20Flow&descAlignY=56&descSize=17"
     alt="Yongjae Kwon header"
   />
 </p>
 
+<h3 align="center">운영 업무 흐름을 화면, API, SQL까지 연결해 구현하는 웹 개발자</h3>
+
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+operation-grade+web+systems.;UI+%2B+API+%2B+SQL+%2B+external+integrations.;Vue+%7C+React+%7C+Spring+%7C+FastAPI"
-      alt="Typing SVG"
-    />
-  </a>
+  <strong>Full-stack web developer focused on admin systems, workflow-heavy UIs, Spring APIs, and data-driven operations tools.</strong>
 </p>
 
 <p align="center">
-  <a href="mailto:koj185364@naver.com">
-    <img src="https://img.shields.io/badge/Email-koj185364%40naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://portfolio-six-inky-14.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
   </a>
   <a href="https://github.com/YongjaeKwon/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Repository" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YongjaeKwon&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="mailto:koj185364@naver.com">
+    <img src="https://img.shields.io/badge/Email-koj185364%40naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Production%20Systems-4-38BDF8?style=for-the-badge&labelColor=0f172a" alt="Production systems" />
-  <img src="https://img.shields.io/badge/Since-2024.06-22C55E?style=for-the-badge&labelColor=0f172a" alt="Since 2024.06" />
-  <img src="https://img.shields.io/badge/PPS%20Personal%20Commits-268-F97316?style=for-the-badge&labelColor=0f172a" alt="PPS personal commits" />
-</p>
+## Recruiter Snapshot
+
+| Item | Detail |
+| --- | --- |
+| Current focus | Frontend/Web development for B2B/B2G operations systems and admin tools |
+| Core stack | Vue, React, TypeScript, Java, Spring Boot, Spring MVC, MyBatis, MariaDB, Oracle |
+| Best-fit roles | Frontend Developer, Web Developer, Product-minded Full-stack Developer |
+| Strong signal | I connect UI states, API responses, SQL conditions, permissions, and external integrations into complete work flows. |
+| Portfolio | [Live site](https://portfolio-six-inky-14.vercel.app/) · [Repository](https://github.com/YongjaeKwon/portfolio) |
+| Privacy note | Professional work is summarized without confidential code, data, internal screenshots, or client-sensitive details. |
 
 ## About
 
@@ -87,25 +91,26 @@ Git, SVN, Docker, Docker Compose, Nginx, Vite, Maven, Gradle, Tabulator, Chart.j
 
 ## Featured Work
 
-| Project | Role | Impact |
+| Project | Role | Personally owned |
 | --- | --- | --- |
-| TGS 협력사 포탈 시스템 | Backend + Vue UI | 교육 등록, 대상자 업로드, 메일 발송, 제출 현황 조회, 댓글 공통화, OTP 예외 처리를 구현했습니다. |
-| TSMS / IDCMS AS 업무 시스템 | Frontend Lead | 모바일 AS 접수, 개인정보 동의, QR 확인, 태블릿 전자서명, 알림톡 결과 처리 흐름을 개발했습니다. |
-| 교육청 IT 자산관리 솔루션 | Backend + UI | 권한별 조회 범위, 자산 현황, 대시보드 집계, 상태 변경, 이력 조회 흐름을 개선했습니다. |
-| SR30 물류관리시스템 | Operation Feature Development | 일정, 설문, 물류·재고, 리포트, KPI, 엑셀 다운로드, 관리자 이력 조회 기능을 개선했습니다. |
+| TGS 협력사 포탈 시스템 | Backend + Vue UI | 교육 등록, 대상자 업로드, 메일 발송, 제출 현황 조회, 댓글 공통화, OTP 예외 처리 |
+| TSMS / IDCMS AS 업무 시스템 | Frontend Lead | 모바일 AS 접수, 개인정보 동의, QR 확인, 태블릿 전자서명, 알림톡 결과 처리 |
+| 교육청 IT 자산관리 솔루션 | Backend + UI | 권한별 조회 범위, 자산 현황, 대시보드 집계, 상태 변경, 이력 조회 |
+| SR30 물류관리시스템 | Operation Feature Development | 일정, 설문, 물류·재고, 리포트, KPI, 엑셀 다운로드, 관리자 이력 조회 |
 
 ## Open Projects
 
-| Project | What It Shows | Link |
-| --- | --- | --- |
-| Portfolio | 역할 관점별로 실무 경험을 보여주는 Vue 기반 포트폴리오 | [Repository](https://github.com/YongjaeKwon/portfolio) |
-| agent-bridge | AI를 활용한 블로그 포스팅 지원 프로그램 | [Repository](https://github.com/YongjaeKwon/agent-bridge) |
-| SSAFAST | API 명세, 요청 테스트, 유스케이스 테스트, 성능 테스트를 연결한 SSAFY 팀 프로젝트 | [Repository](https://github.com/SSAFAST/ssafast) |
-| MODAC | 개발자가 학습 내용을 기록하고 공유할 수 있는 Vue 기반 학습 기록 플랫폼 | [Repository](https://github.com/YongjaeKwon/MODAC) |
-| ddoing | 그림 그리기와 AI 추론을 연결한 React 기반 영어 학습 서비스 | [Repository](https://github.com/GomGom-Team/ddoing) |
-| quant-core | React/FastAPI 기반 퀀트 트레이딩 시스템 학습 프로젝트 | Private Lab |
+| Project | What it shows | My contribution | Link |
+| --- | --- | --- | --- |
+| Portfolio | Role-focused Vue portfolio for professional and personal projects | Positioning, track-based content, public resumes, case studies, Vercel deployment | [Live](https://portfolio-six-inky-14.vercel.app/) · [Repo](https://github.com/YongjaeKwon/portfolio) |
+| ddoing | React drawing game connected with AI inference for English learning | PM, Main Page, Drawing Page, Canvas game flow, inference API integration | [Repo](https://github.com/GomGom-Team/ddoing) |
+| MODAC | Vue learning-room and feed platform for developers | Study room flow, feed/article UI, WebSocket room state, Pinia state handling | [Repo](https://github.com/YongjaeKwon/MODAC) |
+| SSAFAST | Next.js tool that connects API specs, request tests, use-case tests, and performance tests | Performance test UI, URL verification flow, nested DTO forms, SSR-safe modal | [Repo](https://github.com/SSAFAST/ssafast) |
+| agent-bridge | AI-assisted blog posting support program | Agent workflow experiment and automation tooling | [Repo](https://github.com/YongjaeKwon/agent-bridge) |
+| quant-core | React/FastAPI quant trading system learning project | Auth, WebSocket event flow, backtest UI, Docker Compose service split | Private Lab |
 
-## GitHub Metrics
+<details>
+<summary>GitHub metrics</summary>
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YongjaeKwon&theme=github_dark" alt="GitHub profile details" />
@@ -122,14 +127,12 @@ Git, SVN, Docker, Docker Compose, Nginx, Vite, Maven, Gradle, Tabulator, Chart.j
   <img width="49%" src="https://streak-stats.demolab.com?user=YongjaeKwon&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YongjaeKwon&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
-</p>
+</details>
 
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,45:1d4ed8,100:0f172a&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,45:1d4ed8,100:0f172a&height=100&section=footer"
     alt="Footer wave"
   />
 </p>
