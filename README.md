@@ -6,10 +6,10 @@
   />
 </p>
 
-<h3 align="center">운영 업무 흐름을 화면, API, SQL까지 연결해 구현하는 웹 개발자</h3>
+<h3 align="center">운영/관리자 화면을 구현하고 API·SQL 흐름까지 함께 확인하는 프론트엔드 개발자</h3>
 
 <p align="center">
-  <strong>Full-stack web developer focused on admin systems, workflow-heavy UIs, Spring APIs, and data-driven operations tools.</strong>
+  <strong>Frontend developer focused on admin systems, workflow-heavy UIs, API integration, and data-driven operations tools.</strong>
 </p>
 
 <p align="center">
@@ -28,10 +28,10 @@
 
 | Item | Detail |
 | --- | --- |
-| Current focus | Frontend/Web development for B2B/B2G operations systems and admin tools |
-| Core stack | Vue, React, TypeScript, Java, Spring Boot, Spring MVC, MyBatis, MariaDB, Oracle |
-| Best-fit roles | Frontend Developer, Web Developer, Product-minded Full-stack Developer |
-| Strong signal | I connect UI states, API responses, SQL conditions, permissions, and external integrations into complete work flows. |
+| Current focus | Frontend development for B2B/B2G operations systems and admin tools |
+| Core stack | Production: Vue, JavaScript, Spring, MyBatis / Project: React, TypeScript, Next.js |
+| Best-fit roles | Frontend Developer, Admin Tool Web Developer, API/Data-aware Frontend Developer |
+| Strong signal | I connect UI states, API responses, SQL conditions, permissions, and external integrations into complete workflows. |
 | Portfolio | [Live site](https://portfolio-six-inky-14.vercel.app/) · [Repository](https://github.com/YongjaeKwon/portfolio) |
 | Privacy note | Professional work is summarized without confidential code, data, internal screenshots, or client-sensitive details. |
 
@@ -52,8 +52,8 @@ I turn messy business workflows into calm, traceable web systems.
 | Operation UI | 운영자가 반복해서 쓰는 목록, 상세, 검색, 발송, 이력 확인 화면을 안정적으로 구현합니다. |
 | API & State | 성공, 실패, 대기, 예외 응답을 화면 메시지와 버튼 상태로 연결합니다. |
 | Data Conditions | 권한, 조직, 기간, 상태값이 SQL과 화면 필터에서 같은 기준으로 동작하는지 확인합니다. |
-| Integration | 메일, 파일, 엑셀, 인증, 알림 발송처럼 실패 케이스가 있는 연동 흐름을 다룹니다. |
-| Product Thinking | 사용자가 어떤 업무를 끝내야 하는지부터 보고, 기능 단위보다 흐름 단위로 구현합니다. |
+| Integration | 메일, 파일, 엑셀, 인증, 외부 메시지 발송처럼 실패 케이스가 있는 연동 흐름을 다룹니다. |
+| Workflow Thinking | 사용자가 어떤 업무를 끝내야 하는지부터 보고, 기능 단위보다 흐름 단위로 구현합니다. |
 
 ## System Map
 
@@ -63,7 +63,7 @@ flowchart LR
   B --> C["REST API · Spring Boot · Spring MVC"]
   C --> D["Service Logic · Permission Rules"]
   D --> E["MyBatis · SQL · MariaDB · Oracle"]
-  C --> F["Mail · File · Excel · OTP · BizTalk"]
+  C --> F["Mail · File · Excel · Auth · Messaging"]
   E --> G["Dashboards · Reports · Histories"]
   F --> G
 ```
@@ -93,16 +93,16 @@ Git, SVN, Docker, Docker Compose, Nginx, Vite, Maven, Gradle, Tabulator, Chart.j
 
 | Project | Role | Personally owned |
 | --- | --- | --- |
-| TGS 협력사 포탈 시스템 | Backend + Vue UI | 교육 등록, 대상자 업로드, 메일 발송, 제출 현황 조회, 댓글 공통화, OTP 예외 처리 |
-| TSMS / IDCMS AS 업무 시스템 | Frontend Lead | 모바일 AS 접수, 개인정보 동의, QR 확인, 태블릿 전자서명, 알림톡 결과 처리 |
+| B2B 협력사 운영 포탈 | Backend + Vue UI | 교육 등록, 대상자 업로드, 메일 발송, 제출 현황 조회, 댓글 공통화, 인증 예외 처리 |
+| AS 접수·전자서명 업무 시스템 | Frontend Lead | 모바일 AS 접수, 개인정보 동의, QR 확인, 태블릿 전자서명, 외부 메시지 결과 처리 |
 | 교육청 IT 자산관리 솔루션 | Backend + UI | 권한별 조회 범위, 자산 현황, 대시보드 집계, 상태 변경, 이력 조회 |
-| SR30 물류관리시스템 | Operation Feature Development | 일정, 설문, 물류·재고, 리포트, KPI, 엑셀 다운로드, 관리자 이력 조회 |
+| 물류·서비스 운영 시스템 | Operation Feature Development | 일정, 설문, 물류·재고, 리포트, KPI, 엑셀 다운로드, 관리자 이력 조회 |
 
 ## Open Projects
 
 | Project | What it shows | My contribution | Link |
 | --- | --- | --- | --- |
-| Portfolio | Role-focused Vue portfolio for professional and personal projects | Positioning, track-based content, public resumes, case studies, Vercel deployment | [Live](https://portfolio-six-inky-14.vercel.app/) · [Repo](https://github.com/YongjaeKwon/portfolio) |
+| Portfolio | Role-focused Vue portfolio for professional and personal projects | Frontend/API/Data tracks, public resumes, case studies, Vercel deployment | [Live](https://portfolio-six-inky-14.vercel.app/) · [Repo](https://github.com/YongjaeKwon/portfolio) |
 | ddoing | React drawing game connected with AI inference for English learning | PM, Main Page, Drawing Page, Canvas game flow, inference API integration | [Repo](https://github.com/GomGom-Team/ddoing) |
 | MODAC | Vue learning-room and feed platform for developers | Study room flow, feed/article UI, WebSocket room state, Pinia state handling | [Repo](https://github.com/YongjaeKwon/MODAC) |
 | SSAFAST | Next.js tool that connects API specs, request tests, use-case tests, and performance tests | Performance test UI, URL verification flow, nested DTO forms, SSR-safe modal | [Repo](https://github.com/SSAFAST/ssafast) |
