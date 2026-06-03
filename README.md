@@ -34,20 +34,20 @@
 
 ---
 
-## Recruiter Snapshot
+## 한눈에 보는 소개
 
 | | |
 | --- | --- |
-| **Current role** | 웹 개발자, 유한책임회사 티지나래 · 2024.06 ~ 재직 중 |
-| **Primary focus** | B2B·B2G 운영 시스템, 관리자·모바일 화면, API·SQL·외부 연동 흐름 |
-| **Best-fit tracks** | Front-end Developer · Back-end Developer · Fullstack Web Developer |
-| **Production stack** | Vue.js, JavaScript, WebSquare, JSP, Nexacro, jQuery, Java, Spring Boot, Spring MVC, Spring Security, MyBatis, MariaDB, Oracle |
-| **Project stack** | React, TypeScript, Next.js, Zustand, Redux, FastAPI (개인 프로젝트(quant-core)), PostgreSQL, Redis, Docker |
-| **Certificate** | SQLD (SQL 개발자) · 2024.09 취득 |
+| **현재 역할** | 웹 개발자, 유한책임회사 티지나래 · 2024.06 ~ 재직 중 |
+| **주요 경험** | B2B·B2G 운영 시스템, 관리자·모바일 화면, API·SQL·외부 연동 흐름 |
+| **지원 트랙** | 프론트엔드 개발자 · 백엔드 개발자 · 풀스택 웹 개발자 |
+| **실무 기술** | Vue.js, JavaScript, WebSquare, JSP, Nexacro, jQuery, Java, Spring Boot, Spring MVC, Spring Security, MyBatis, MariaDB, Oracle |
+| **개인 프로젝트 기술** | React, TypeScript, Next.js, Zustand, Redux, FastAPI (개인 프로젝트(quant-core), 공개용 quant-lab), PostgreSQL, Redis, Docker |
+| **자격** | SQLD (SQL 개발자) · 2024.09 취득 |
 
-> Professional work is summarized without confidential code, internal screenshots, client data, or company-sensitive details.
+> 실무 내용은 보안상 공개 가능한 범위에서만 정리했습니다. 내부 코드, 화면, 고객 데이터, 회사 민감 정보는 포함하지 않습니다.
 
-## About Me
+## 소개
 
 B2B·B2G 운영 시스템에서 **화면 구현, API 응답, 권한 조건, MyBatis 조회 기준, 외부 연동 결과**를 직접 대조하며 기능을 만들어 왔습니다.
 
@@ -57,17 +57,17 @@ B2B·B2G 운영 시스템에서 **화면 구현, API 응답, 권한 조건, MyBa
 I build calm, traceable web systems for messy business workflows.
 ```
 
-## Portfolio Tracks
+## 포트폴리오 트랙
 
-| Track | What I emphasize | Resume |
+| 트랙 | 강조하는 내용 | 이력서 |
 | --- | --- | --- |
-| **Front-end** | Vue 기반 관리자 화면, 상태 분기, API 응답과 화면 결과 정합성 | [resume.pdf](https://portfolio-six-inky-14.vercel.app/resume.pdf) |
-| **Back-end** | Spring MVC API, Controller·Service·Mapper, MyBatis 동적 SQL, 외부 연동 응답 처리 | [resume-backend.pdf](https://portfolio-six-inky-14.vercel.app/resume-backend.pdf) |
-| **Fullstack** | 화면 요구사항에서 API·Service·SQL·파일·메일·인증 연동까지 이어지는 기능 구현 | [resume-fullstack.pdf](https://portfolio-six-inky-14.vercel.app/resume-fullstack.pdf) |
+| **프론트엔드** | Vue 기반 관리자 화면, 상태 분기, API 응답과 화면 결과 정합성 | [resume.pdf](https://portfolio-six-inky-14.vercel.app/resume.pdf) |
+| **백엔드** | Spring MVC API, Controller·Service·Mapper, MyBatis 동적 SQL, 외부 연동 응답 처리 | [resume-backend.pdf](https://portfolio-six-inky-14.vercel.app/resume-backend.pdf) |
+| **풀스택** | 화면 요구사항에서 API·Service·SQL·파일·메일·인증 연동까지 이어지는 기능 구현 | [resume-fullstack.pdf](https://portfolio-six-inky-14.vercel.app/resume-fullstack.pdf) |
 
-## What I Bring
+## 일하는 방식
 
-| Area | How I work |
+| 영역 | 방식 |
 | --- | --- |
 | **관리자·운영 화면** | 검색, 그리드, 상세, 모달, 파일 업로드, 엑셀 다운로드처럼 반복되는 화면을 상태와 예외 기준까지 포함해 구현합니다. |
 | **API 응답과 화면 상태** | 성공·실패·대기·예외 응답을 버튼, 메시지, 재조회 흐름으로 연결해 운영자가 다음 행동을 판단할 수 있게 만듭니다. |
@@ -75,26 +75,26 @@ I build calm, traceable web systems for messy business workflows.
 | **외부 연동** | 메일, 파일, 엑셀, 인증, 알림처럼 실패가 잦은 연동을 요청부터 결과 응답까지 확인합니다. |
 | **업무 흐름 설계** | 기능 단위보다 사용자가 실제로 끝내야 하는 업무 단위로 등록→처리→확인 흐름을 묶습니다. |
 
-## Representative Work
+## 대표 업무
 
-| Project | Role | Personal ownership |
+| 업무 | 역할 | 직접 맡은 범위 |
 | --- | --- | --- |
 | **B2B 협력사 운영 포탈 (PPS)** | 백엔드 및 Vue 화면 개발 | 교육 등록, 대상자 업로드, 메일 발송, 제출 현황 조회, 댓글 공통화, 인증 예외, 공지 읽음 이력 처리 |
 | **AS 접수·전자서명 업무 시스템** | 프론트엔드 주담당 | 모바일 AS 접수, 개인정보 동의, QR 확인, 태블릿 전자서명, 파일 조회·업로드, 외부 메시지 결과 반영 |
 | **교육청 IT 자산관리 솔루션** | 백엔드 및 화면 개발 | 교육청·학교·부서 권한별 조회 범위, 자산 현황, 유상처리 현황, 대시보드 집계, 상태별 SQL 개선 |
 | **물류·서비스 운영 시스템** | 운영 기능 개선 및 신규 기능 개발 | 일정, 설문, 물류·재고, 리포트, KPI, 엑셀 다운로드, 관리자 이력 조회 화면 개선 |
 
-## Open Projects
+## 공개 프로젝트
 
-| Project | What it shows | Link |
+| 프로젝트 | 보여주는 내용 | 링크 |
 | --- | --- | --- |
-| **Portfolio** | Front-end / Back-end / Fullstack 트랙별 포트폴리오와 PDF 이력서 | [Live](https://portfolio-six-inky-14.vercel.app/) · [Repo](https://github.com/YongjaeKwon/portfolio) |
-| **quant-core** | 개인 프로젝트(quant-core)에서 FastAPI, PostgreSQL, Redis, WebSocket, Docker Compose 기반 백엔드 구조 학습 | Private Lab |
+| **Portfolio** | 프론트엔드·백엔드·풀스택 트랙별 포트폴리오와 PDF 이력서 | [Live](https://portfolio-six-inky-14.vercel.app/) · [Repo](https://github.com/YongjaeKwon/portfolio) |
+| **quant-lab** | 개인 프로젝트(quant-core)에서 공개 가능한 구조만 분리한 FastAPI 백엔드 쇼케이스 | [Repo](https://github.com/YongjaeKwon/quant-lab) |
 | **ddoing** | React/TypeScript Canvas 학습 게임, AI 추론 요청 연결, PM 경험 | [Repo](https://github.com/GomGom-Team/ddoing) |
 | **MODAC** | Vue 3, Pinia, WebSocket 기반 학습 room·피드 UI | [Repo](https://github.com/YongjaeKwon/MODAC) |
 | **SSAFAST** | Next.js API 협업 플랫폼, 성능 테스트 UI, URL 검증, 중첩 DTO 폼 | [Repo](https://github.com/SSAFAST/ssafast) |
 
-## Tech Stack
+## 기술 스택
 
 <table>
   <tr>
@@ -115,7 +115,7 @@ I build calm, traceable web systems for messy business workflows.
   </tr>
 </table>
 
-## System View
+## 시스템 관점
 
 ```mermaid
 flowchart LR
@@ -130,7 +130,7 @@ flowchart LR
 ```
 
 <details>
-  <summary><b>GitHub Activity</b></summary>
+  <summary><b>GitHub 활동</b></summary>
   <br/>
   <p align="center">
     <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YongjaeKwon&theme=github_dark" alt="Profile details" />
