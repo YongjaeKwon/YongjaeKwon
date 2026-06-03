@@ -18,14 +18,11 @@
   <a href="https://portfolio-six-inky-14.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://portfolio-six-inky-14.vercel.app/resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-Front--end-2563eb?style=for-the-badge" alt="Front-end resume" />
-  </a>
-  <a href="https://portfolio-six-inky-14.vercel.app/resume-backend.pdf">
-    <img src="https://img.shields.io/badge/Resume-Back--end-0891b2?style=for-the-badge" alt="Back-end resume" />
-  </a>
   <a href="https://portfolio-six-inky-14.vercel.app/resume-fullstack.pdf">
-    <img src="https://img.shields.io/badge/Resume-Fullstack-4338ca?style=for-the-badge" alt="Fullstack resume" />
+    <img src="https://img.shields.io/badge/Resume-Fullstack-4338ca?style=for-the-badge" alt="대표 이력서" />
+  </a>
+  <a href="https://github.com/YongjaeKwon/quant-lab">
+    <img src="https://img.shields.io/badge/quant--lab-Repo-16a34a?style=for-the-badge&logo=github&logoColor=white" alt="quant-lab 공개 저장소" />
   </a>
   <a href="mailto:koj185364@naver.com">
     <img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
