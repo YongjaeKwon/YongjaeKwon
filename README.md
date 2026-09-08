@@ -22,7 +22,7 @@
 | 프로젝트 | 구현한 내용 | 확인할 부분 |
 | --- | --- | --- |
 | **[티켓러시](https://github.com/YongjaeKwon/ticket-rush)** · 개인 | Java/Spring 기반 대기열·좌석 선점·예매 처리 | 같은 좌석의 동시 요청, 홀드 만료, 중복 확정을 다루는 코드와 통합 테스트 |
-| **[데이터 검증·조회 데모](https://github.com/YongjaeKwon/quant-lab)** · 개인 | Python/FastAPI · React로 연결한 합성 데이터 파이프라인과 대시보드 | 재실행 시 중복 방지, 잘못된 시계열 입력 거부, API와 화면 상태 테스트 |
+| **[데이터 데모](https://github.com/YongjaeKwon/quant-lab)** · 개인 | Python/FastAPI · React로 연결한 합성 데이터 파이프라인과 대시보드 | 재실행 시 중복 방지, 잘못된 시계열 입력 거부, API와 화면 상태 테스트 |
 | **[포트폴리오](https://github.com/YongjaeKwon/portfolio)** · 개인 | Vue 3 · TypeScript로 구현한 경력·프로젝트 사이트 | 상세 콘텐츠 지연 로딩, 공통 UI, 프로젝트별 브라우저 데모 |
 
 각 저장소의 README에서 구현 코드, 테스트와 실행 방법으로 이동할 수 있습니다.
