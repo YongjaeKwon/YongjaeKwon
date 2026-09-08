@@ -62,6 +62,6 @@ B2B·공공 업무 시스템의 화면·API·SQL을 개발하고, 검수와 배�
 **TSMS · 교육용 단말 운영 시스템**<br>
 25개 화면의 외부 API 호출을 공통 서버 경로로 옮겼습니다. 단말 등록 전 검증과 QR 발급, 현장 점검·재점검 업무도 개발했습니다.
 
-사내 코드는 비공개이며, 담당 범위와 구현 배경은 [포트폴리오의 상세 사례](https://www.yongjaekwon.com/#projects)에 정리했습니다.
+사내 코드는 비공개이며, 담당 범위와 구현 배경은 [포트폴리오의 상세 사례](https://www.yongjaekwon.com/#experience)에 정리했습니다.
 
 [포트폴리오 소스 코드](https://github.com/YongjaeKwon/portfolio) · [MODAC — 스터디룸·학습 기록 팀 프로젝트](https://github.com/YongjaeKwon/MODAC)
