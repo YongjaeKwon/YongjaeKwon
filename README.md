@@ -5,7 +5,7 @@
 요구사항을 화면·API·SQL로 구현하고, 사용자 검수와 배포까지 담당합니다.
 개인 프로젝트에서는 동시 요청과 데이터 오류를 다루는 방법을 구현하고 테스트로 확인합니다.
 
-[포트폴리오](https://www.yongjaekwon.com/) · [이력서](https://www.yongjaekwon.com/resume.pdf) · [Email](mailto:yongjae116@gmail.com)
+[포트폴리오](https://www.yongjaekwon.com/) · [백엔드 이력서](https://www.yongjaekwon.com/resume-backend.pdf) · [프론트엔드 이력서](https://www.yongjaekwon.com/resume.pdf) · [Email](mailto:yongjae116@gmail.com)
 
 ## 실무에서 개선한 문제
 
