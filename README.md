@@ -1,4 +1,9 @@
-# 권용재 · Yongjae Kwon
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/header-mobile-dark.png">
+  <source media="(max-width: 600px)" srcset="assets/header-mobile-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-desktop-dark.png">
+  <img src="assets/header-desktop-light.png" width="100%" alt="권용재 Yongjae Kwon, 웹 개발자. 필요한 기능을 만들고, 쓰이는 모습까지 확인합니다. 60초 안에 끝나지 않던 조회를 63~69ms로, 첨부파일 300~400건 압축을 진행이 보이는 작업으로, 교육용 단말 108,237대 QR 발급.">
+</picture>
 
 운영 중인 공공 · B2B 업무 시스템에서 화면부터 서버와 DB까지 만드는 웹 개발자입니다. 요구사항을 정리하는 단계부터 배포한 기능이 실제로 쓰이는지 확인하는 단계까지 맡고 있습니다.
 
